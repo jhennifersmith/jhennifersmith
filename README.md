@@ -1,7 +1,15 @@
 <h4>Hi, I'm Jhennifer Smith</h4>
 
-- 🌱 I’m currently learning Java
-- 😄 Pronouns: she/her
+- Studying Analysis And System Development in College (Instituto Federal do Espírito Santo)
+- Extremely curious about programming and currently focused on back-end development
+- Pronouns: she/her
+
+<h4>Technologies I'm current studying:</h4>
+
+- Java
+- JavaScript
+- C
+
 
 <div align="left">
   <a href="https://github.com/jhennifersmith">
