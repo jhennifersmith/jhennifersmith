@@ -9,6 +9,7 @@
 - Java
 - JavaScript
 - C
+- Python
 
 
 <div align="left">
